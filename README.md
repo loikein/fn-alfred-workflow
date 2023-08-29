@@ -6,6 +6,8 @@ Only tested on my own MacBook (13-inch, 2018, Four Thunderbolt 3 Ports, macOS Ca
 
 ## Usage
 
+<img width="600" alt="screenshot" src="https://github.com/loikein/fn-alfred-workflow/assets/20618587/41a8c31d-63e5-4a5d-80eb-20e78258a82a">
+
 Use the following arguments to switch Touch bar status:
 
 - app
